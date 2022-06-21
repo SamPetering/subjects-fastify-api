@@ -5,4 +5,4 @@ RUN yarn
 
 COPY . .
 
-CMD ["yarn", "start"]
+CMD ["yarn", "start:prod"]
