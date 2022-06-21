@@ -1,5 +1,5 @@
 import fastify from 'fastify';
-import AutoLoad, { AutoloadPluginOptions } from '@fastify/autoload';
+import AutoLoad from '@fastify/autoload';
 import { join } from 'path';
 import subjectsRoutes from './modules/subjects/subjects.routes';
 
