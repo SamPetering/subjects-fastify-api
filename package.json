@@ -5,7 +5,9 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc -p tsconfig.json -w",
-    "start": "tsc -w & nodemon dist/index.js"
+    "start": "tsc -w & nodemon dist/index.js",
+    "build:docker": "docker build -t fastify-subjects .",
+    "start:docker": "docker run -p 3000:3000 fastify-subjects"
   },
   "dependencies": {
     "@fastify/autoload": "^5.0.0",
