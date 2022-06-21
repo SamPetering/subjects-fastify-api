@@ -32,3 +32,8 @@ server.listen({ port: 3000, host: '0.0.0.0' }, (err, address) => {
   }
   console.log(`Server listening at ${address}`);
 });
+
+server.ready(async () => {
+  console.log('Starting swagger at /docs');
+  server.swagger();
+});
