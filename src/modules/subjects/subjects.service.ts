@@ -1,52 +1,17 @@
 import { SubjectNode, SubjectsTaxonomy } from './subjects.schema';
-
-export const taxonomy: SubjectsTaxonomy = {
-  Science: {
-    current: 'Science',
-    parent: undefined,
-    children: ['Biology'],
-  },
-  Biology: {
-    current: 'Biology',
-    parent: 'Science',
-    children: ['Anatomy', 'Biochemistry'],
-  },
-  Anatomy: {
-    current: 'Anatomy',
-    parent: 'Biology',
-    children: undefined,
-  },
-  Biochemistry: {
-    current: 'Biochemistry',
-    parent: 'Biology',
-    children: undefined,
-  },
-  Math: {
-    current: 'Math',
-    parent: undefined,
-    children: ['Algebra', 'Geometry'],
-  },
-  Algebra: {
-    current: 'Algebra',
-    parent: 'Math',
-    children: [],
-  },
-  Geometry: {
-    current: 'Geometry',
-    parent: 'Math',
-    children: [],
-  },
-};
+import subjects from './subjects';
 
 export async function getSubjects(locale?: string) {
-  return taxonomy;
+  return subjects.taxonomy;
 }
 
 export async function getSubject(
   node: string,
   locale?: string
 ): Promise<SubjectNode | null> {
-  const found = taxonomy[node];
+  const taxonomy = subjects.taxonomy as SubjectsTaxonomy;
+  const key = `/${node}`;
+  const found = taxonomy[key];
   return found ?? null;
 }
 

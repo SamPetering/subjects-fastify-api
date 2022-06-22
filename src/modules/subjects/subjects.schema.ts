@@ -1,10 +1,22 @@
 import { Static, Type } from '@sinclair/typebox';
 import { RouteShorthandOptions } from 'fastify';
 
+const SubjectSchema = Type.Union([
+  Type.Literal('arts and humanities'),
+  Type.Literal('languages'),
+  Type.Literal('math'),
+  Type.Literal('science'),
+  Type.Literal('social science'),
+  Type.Literal('other'),
+]);
+
 export const SubjectNodeSchema = Type.Object({
-  current: Type.String(),
-  parent: Type.Optional(Type.String()),
+  classifications: Type.Array(Type.String()),
   children: Type.Optional(Type.Array(Type.String())),
+  current: Type.String(),
+  locKey: Type.String(),
+  subject: SubjectSchema,
+  parent: Type.Optional(Type.String()),
 });
 
 export const SubjectsTaxonomySchema = Type.Record(
