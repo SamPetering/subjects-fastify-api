@@ -33,7 +33,9 @@ export const SubjectsRequestQuerySchema = Type.Object({
 });
 
 export const SubjectsRequestParamsSchema = Type.Object({
-  node: Type.String(),
+  l1: Type.String(),
+  l2: Type.Optional(Type.String()),
+  l3: Type.Optional(Type.String()),
 });
 
 export const SubjectsRequestBodySchema = SubjectNodeSchema;

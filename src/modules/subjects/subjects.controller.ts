@@ -16,8 +16,8 @@ export async function getSubjectHandler(
   reply: FastifyReply
 ) {
   const locale = request.query.locale;
-  const node = request.params.node;
-  const subject = await getSubject(node, locale);
+  const { l1, l2, l3 } = request.params;
+  const subject = await getSubject({ l1, l2, l3 }, locale);
   if (subject === null) return reply.code(404).send('subject not found');
 
   return reply.code(200).send(subject);

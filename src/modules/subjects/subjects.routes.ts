@@ -14,7 +14,17 @@ import {
 async function subjectsRoutes(server: FastifyInstance) {
   server.get<SubjectsRequest>('/subjects', GetSubjectsOpts, getSubjectsHandler);
   server.get<SubjectsRequest>(
-    '/subjects/:node',
+    '/subjects/:l1',
+    GetSubjectOpts,
+    getSubjectHandler
+  );
+  server.get<SubjectsRequest>(
+    '/subjects/:l1/:l2',
+    GetSubjectOpts,
+    getSubjectHandler
+  );
+  server.get<SubjectsRequest>(
+    '/subjects/:l1/:l2/:l3',
     GetSubjectOpts,
     getSubjectHandler
   );

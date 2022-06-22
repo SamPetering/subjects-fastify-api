@@ -6,11 +6,13 @@ export async function getSubjects(locale?: string) {
 }
 
 export async function getSubject(
-  node: string,
+  classifications: { l1: string; l2?: string; l3?: string },
   locale?: string
 ): Promise<SubjectNode | null> {
   const taxonomy = subjects.taxonomy as SubjectsTaxonomy;
-  const key = `/${node}`;
+  const key = `/${Object.values(classifications)
+    .filter((x) => !!x)
+    .join('/')}`;
   const found = taxonomy[key];
   return found ?? null;
 }
