@@ -1,11 +1,13 @@
 import { SubjectNode, SubjectsTaxonomy } from './subjects.schema';
 import subjects from './subjects';
+import { Firestore } from 'firebase/firestore/lite';
 
-export async function getSubjects(locale?: string) {
+export async function getSubjects(db: Firestore, locale?: string) {
   return subjects.taxonomy;
 }
 
 export async function getSubject(
+  db: Firestore,
   classifications: { l1: string; l2?: string; l3?: string },
   locale?: string
 ): Promise<SubjectNode | null> {
@@ -17,7 +19,10 @@ export async function getSubject(
   return found ?? null;
 }
 
-export async function addSubject(node: SubjectNode): Promise<boolean> {
+export async function addSubject(
+  db: Firestore,
+  node: SubjectNode
+): Promise<boolean> {
   console.log('creating node: ', node);
   return true;
 }

@@ -2,6 +2,7 @@ import fastify from 'fastify';
 import AutoLoad from '@fastify/autoload';
 import { join } from 'path';
 import subjectsRoutes from './modules/subjects/subjects.routes';
+import { HOST, PORT } from './config';
 
 const server = fastify({
   logger: true,
@@ -25,7 +26,7 @@ server.register(AutoLoad, {
 
 server.register(subjectsRoutes);
 
-server.listen({ port: 3000, host: '0.0.0.0' }, (err, address) => {
+server.listen({ port: PORT, host: HOST }, (err, address) => {
   if (err) {
     console.error(err);
     process.exit(1);

@@ -1,0 +1,2646 @@
+{
+  "taxonomy": {
+    "/arts-and-humanities": {
+      "classifications": ["Arts And Humanities"],
+      "children": [
+        "/arts-and-humanities/art-history",
+        "/arts-and-humanities/dance",
+        "/arts-and-humanities/english",
+        "/arts-and-humanities/film-and-tv",
+        "/arts-and-humanities/history",
+        "/arts-and-humanities/music",
+        "/arts-and-humanities/philosophy",
+        "/arts-and-humanities/theater"
+      ],
+      "current": "/arts-and-humanities",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.name",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/art-history": {
+      "classifications": ["Arts And Humanities", "Art History"],
+      "children": [
+        "/arts-and-humanities/art-history/art-of-europe",
+        "/arts-and-humanities/art-history/baroque-art",
+        "/arts-and-humanities/art-history/prehistoric-art"
+      ],
+      "current": "/arts-and-humanities/art-history",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.art_history.name",
+      "parent": "/arts-and-humanities",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/art-history/art-of-europe": {
+      "classifications": [
+        "Arts And Humanities",
+        "Art History",
+        "Art Of Europe"
+      ],
+      "current": "/arts-and-humanities/art-history/art-of-europe",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.art_history.art_of_europe.name",
+      "parent": "/arts-and-humanities/art-history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/art-history/baroque-art": {
+      "classifications": ["Arts And Humanities", "Art History", "Baroque Art"],
+      "current": "/arts-and-humanities/art-history/baroque-art",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.art_history.baroque_art.name",
+      "parent": "/arts-and-humanities/art-history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/art-history/prehistoric-art": {
+      "classifications": [
+        "Arts And Humanities",
+        "Art History",
+        "Prehistoric Art"
+      ],
+      "current": "/arts-and-humanities/art-history/prehistoric-art",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.art_history.prehistoric_art.name",
+      "parent": "/arts-and-humanities/art-history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/dance": {
+      "classifications": ["Arts And Humanities", "Dance"],
+      "children": [],
+      "current": "/arts-and-humanities/dance",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.dance.name",
+      "parent": "/arts-and-humanities",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/english": {
+      "classifications": ["Arts And Humanities", "English"],
+      "children": [
+        "/arts-and-humanities/english/linguistics",
+        "/arts-and-humanities/english/literature"
+      ],
+      "current": "/arts-and-humanities/english",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.english.name",
+      "parent": "/arts-and-humanities",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/english/linguistics": {
+      "classifications": ["Arts And Humanities", "English", "Linguistics"],
+      "current": "/arts-and-humanities/english/linguistics",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.english.linguistics.name",
+      "parent": "/arts-and-humanities/english",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/english/literature": {
+      "classifications": ["Arts And Humanities", "English", "Literature"],
+      "current": "/arts-and-humanities/english/literature",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.english.literature.name",
+      "parent": "/arts-and-humanities/english",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/film-and-tv": {
+      "classifications": ["Arts And Humanities", "Film And Tv"],
+      "children": [],
+      "current": "/arts-and-humanities/film-and-tv",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.film_and_tv.name",
+      "parent": "/arts-and-humanities",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history": {
+      "classifications": ["Arts And Humanities", "History"],
+      "children": [
+        "/arts-and-humanities/history/ancient-history",
+        "/arts-and-humanities/history/environmental-history",
+        "/arts-and-humanities/history/history-of-africa",
+        "/arts-and-humanities/history/history-of-asia",
+        "/arts-and-humanities/history/history-of-australia",
+        "/arts-and-humanities/history/history-of-europe",
+        "/arts-and-humanities/history/history-of-iran",
+        "/arts-and-humanities/history/history-of-russia",
+        "/arts-and-humanities/history/history-of-the-americas",
+        "/arts-and-humanities/history/modern-history",
+        "/arts-and-humanities/history/scientific-history",
+        "/arts-and-humanities/history/western-civilization"
+      ],
+      "current": "/arts-and-humanities/history",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.name",
+      "parent": "/arts-and-humanities",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/ancient-history": {
+      "classifications": ["Arts And Humanities", "History", "Ancient History"],
+      "current": "/arts-and-humanities/history/ancient-history",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.ancient_history.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/environmental-history": {
+      "classifications": [
+        "Arts And Humanities",
+        "History",
+        "Environmental History"
+      ],
+      "current": "/arts-and-humanities/history/environmental-history",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.environmental_history.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/history-of-africa": {
+      "classifications": [
+        "Arts And Humanities",
+        "History",
+        "History Of Africa"
+      ],
+      "current": "/arts-and-humanities/history/history-of-africa",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.history_of_africa.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/history-of-asia": {
+      "classifications": ["Arts And Humanities", "History", "History Of Asia"],
+      "current": "/arts-and-humanities/history/history-of-asia",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.history_of_asia.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/history-of-australia": {
+      "classifications": [
+        "Arts And Humanities",
+        "History",
+        "History Of Australia"
+      ],
+      "current": "/arts-and-humanities/history/history-of-australia",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.history_of_australia.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/history-of-europe": {
+      "classifications": [
+        "Arts And Humanities",
+        "History",
+        "History Of Europe"
+      ],
+      "current": "/arts-and-humanities/history/history-of-europe",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.history_of_europe.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/history-of-iran": {
+      "classifications": ["Arts And Humanities", "History", "History Of Iran"],
+      "current": "/arts-and-humanities/history/history-of-iran",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.history_of_iran.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/history-of-russia": {
+      "classifications": [
+        "Arts And Humanities",
+        "History",
+        "History Of Russia"
+      ],
+      "current": "/arts-and-humanities/history/history-of-russia",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.history_of_russia.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/history-of-the-americas": {
+      "classifications": [
+        "Arts And Humanities",
+        "History",
+        "History Of The Americas"
+      ],
+      "current": "/arts-and-humanities/history/history-of-the-americas",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.history_of_the_americas.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/modern-history": {
+      "classifications": ["Arts And Humanities", "History", "Modern History"],
+      "current": "/arts-and-humanities/history/modern-history",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.modern_history.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/scientific-history": {
+      "classifications": [
+        "Arts And Humanities",
+        "History",
+        "Scientific History"
+      ],
+      "current": "/arts-and-humanities/history/scientific-history",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.scientific_history.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/history/western-civilization": {
+      "classifications": [
+        "Arts And Humanities",
+        "History",
+        "Western Civilization"
+      ],
+      "current": "/arts-and-humanities/history/western-civilization",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.history.western_civilization.name",
+      "parent": "/arts-and-humanities/history",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/music": {
+      "classifications": ["Arts And Humanities", "Music"],
+      "children": [
+        "/arts-and-humanities/music/chamber-music",
+        "/arts-and-humanities/music/music-composition",
+        "/arts-and-humanities/music/music-history",
+        "/arts-and-humanities/music/music-theory"
+      ],
+      "current": "/arts-and-humanities/music",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.music.name",
+      "parent": "/arts-and-humanities",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/music/chamber-music": {
+      "classifications": ["Arts And Humanities", "Music", "Chamber Music"],
+      "current": "/arts-and-humanities/music/chamber-music",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.music.chamber_music.name",
+      "parent": "/arts-and-humanities/music",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/music/music-composition": {
+      "classifications": ["Arts And Humanities", "Music", "Music Composition"],
+      "current": "/arts-and-humanities/music/music-composition",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.music.music_composition.name",
+      "parent": "/arts-and-humanities/music",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/music/music-history": {
+      "classifications": ["Arts And Humanities", "Music", "Music History"],
+      "current": "/arts-and-humanities/music/music-history",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.music.music_history.name",
+      "parent": "/arts-and-humanities/music",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/music/music-theory": {
+      "classifications": ["Arts And Humanities", "Music", "Music Theory"],
+      "current": "/arts-and-humanities/music/music-theory",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.music.music_theory.name",
+      "parent": "/arts-and-humanities/music",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/philosophy": {
+      "classifications": ["Arts And Humanities", "Philosophy"],
+      "children": [
+        "/arts-and-humanities/philosophy/ethics",
+        "/arts-and-humanities/philosophy/logic",
+        "/arts-and-humanities/philosophy/theology"
+      ],
+      "current": "/arts-and-humanities/philosophy",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.philosophy.name",
+      "parent": "/arts-and-humanities",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/philosophy/ethics": {
+      "classifications": ["Arts And Humanities", "Philosophy", "Ethics"],
+      "current": "/arts-and-humanities/philosophy/ethics",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.philosophy.ethics.name",
+      "parent": "/arts-and-humanities/philosophy",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/philosophy/logic": {
+      "classifications": ["Arts And Humanities", "Philosophy", "Logic"],
+      "current": "/arts-and-humanities/philosophy/logic",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.philosophy.logic.name",
+      "parent": "/arts-and-humanities/philosophy",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/philosophy/theology": {
+      "classifications": ["Arts And Humanities", "Philosophy", "Theology"],
+      "current": "/arts-and-humanities/philosophy/theology",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.philosophy.theology.name",
+      "parent": "/arts-and-humanities/philosophy",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/theater": {
+      "classifications": ["Arts And Humanities", "Theater"],
+      "children": [
+        "/arts-and-humanities/theater/acting",
+        "/arts-and-humanities/theater/directing",
+        "/arts-and-humanities/theater/history-of-theater"
+      ],
+      "current": "/arts-and-humanities/theater",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.theater.name",
+      "parent": "/arts-and-humanities",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/theater/acting": {
+      "classifications": ["Arts And Humanities", "Theater", "Acting"],
+      "current": "/arts-and-humanities/theater/acting",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.theater.acting.name",
+      "parent": "/arts-and-humanities/theater",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/theater/directing": {
+      "classifications": ["Arts And Humanities", "Theater", "Directing"],
+      "current": "/arts-and-humanities/theater/directing",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.theater.directing.name",
+      "parent": "/arts-and-humanities/theater",
+      "subject": "arts and humanities"
+    },
+    "/arts-and-humanities/theater/history-of-theater": {
+      "classifications": [
+        "Arts And Humanities",
+        "Theater",
+        "History Of Theater"
+      ],
+      "current": "/arts-and-humanities/theater/history-of-theater",
+      "locKey": "information_architecture.us_taxonomy.arts_and_humanities.theater.history_of_theater.name",
+      "parent": "/arts-and-humanities/theater",
+      "subject": "arts and humanities"
+    },
+    "/languages": {
+      "classifications": ["Languages"],
+      "children": [
+        "/languages/english",
+        "/languages/french",
+        "/languages/german",
+        "/languages/latin",
+        "/languages/spanish"
+      ],
+      "current": "/languages",
+      "locKey": "information_architecture.us_taxonomy.languages.name",
+      "subject": "languages"
+    },
+    "/languages/english": {
+      "classifications": ["Languages", "English"],
+      "children": [],
+      "current": "/languages/english",
+      "locKey": "information_architecture.us_taxonomy.languages.english.name",
+      "parent": "/languages",
+      "subject": "languages"
+    },
+    "/languages/french": {
+      "classifications": ["Languages", "French"],
+      "children": [],
+      "current": "/languages/french",
+      "locKey": "information_architecture.us_taxonomy.languages.french.name",
+      "parent": "/languages",
+      "subject": "languages"
+    },
+    "/languages/german": {
+      "classifications": ["Languages", "German"],
+      "children": [],
+      "current": "/languages/german",
+      "locKey": "information_architecture.us_taxonomy.languages.german.name",
+      "parent": "/languages",
+      "subject": "languages"
+    },
+    "/languages/latin": {
+      "classifications": ["Languages", "Latin"],
+      "children": [],
+      "current": "/languages/latin",
+      "locKey": "information_architecture.us_taxonomy.languages.latin.name",
+      "parent": "/languages",
+      "subject": "languages"
+    },
+    "/languages/spanish": {
+      "classifications": ["Languages", "Spanish"],
+      "children": [],
+      "current": "/languages/spanish",
+      "locKey": "information_architecture.us_taxonomy.languages.spanish.name",
+      "parent": "/languages",
+      "subject": "languages"
+    },
+    "/math": {
+      "classifications": ["Math"],
+      "children": [
+        "/math/algebra",
+        "/math/arithmetic",
+        "/math/calculus",
+        "/math/discrete-math",
+        "/math/geometry",
+        "/math/math-foundations",
+        "/math/probability",
+        "/math/statistics"
+      ],
+      "current": "/math",
+      "locKey": "information_architecture.us_taxonomy.math.name",
+      "subject": "math"
+    },
+    "/math/algebra": {
+      "classifications": ["Math", "Algebra"],
+      "children": [
+        "/math/algebra/abstract-algebra",
+        "/math/algebra/linear-algebra",
+        "/math/algebra/pre-algebra"
+      ],
+      "current": "/math/algebra",
+      "locKey": "information_architecture.us_taxonomy.math.algebra.name",
+      "parent": "/math",
+      "subject": "math"
+    },
+    "/math/algebra/abstract-algebra": {
+      "classifications": ["Math", "Algebra", "Abstract Algebra"],
+      "current": "/math/algebra/abstract-algebra",
+      "locKey": "information_architecture.us_taxonomy.math.algebra.abstract_algebra.name",
+      "parent": "/math/algebra",
+      "subject": "math"
+    },
+    "/math/algebra/linear-algebra": {
+      "classifications": ["Math", "Algebra", "Linear Algebra"],
+      "current": "/math/algebra/linear-algebra",
+      "locKey": "information_architecture.us_taxonomy.math.algebra.linear_algebra.name",
+      "parent": "/math/algebra",
+      "subject": "math"
+    },
+    "/math/algebra/pre-algebra": {
+      "classifications": ["Math", "Algebra", "Pre Algebra"],
+      "current": "/math/algebra/pre-algebra",
+      "locKey": "information_architecture.us_taxonomy.math.algebra.pre_algebra.name",
+      "parent": "/math/algebra",
+      "subject": "math"
+    },
+    "/math/arithmetic": {
+      "classifications": ["Math", "Arithmetic"],
+      "children": [],
+      "current": "/math/arithmetic",
+      "locKey": "information_architecture.us_taxonomy.math.arithmetic.name",
+      "parent": "/math",
+      "subject": "math"
+    },
+    "/math/calculus": {
+      "classifications": ["Math", "Calculus"],
+      "children": ["/math/calculus/differential-equations"],
+      "current": "/math/calculus",
+      "locKey": "information_architecture.us_taxonomy.math.calculus.name",
+      "parent": "/math",
+      "subject": "math"
+    },
+    "/math/calculus/differential-equations": {
+      "classifications": ["Math", "Calculus", "Differential Equations"],
+      "current": "/math/calculus/differential-equations",
+      "locKey": "information_architecture.us_taxonomy.math.calculus.differential_equations.name",
+      "parent": "/math/calculus",
+      "subject": "math"
+    },
+    "/math/discrete-math": {
+      "classifications": ["Math", "Discrete Math"],
+      "children": [],
+      "current": "/math/discrete-math",
+      "locKey": "information_architecture.us_taxonomy.math.discrete_math.name",
+      "parent": "/math",
+      "subject": "math"
+    },
+    "/math/geometry": {
+      "classifications": ["Math", "Geometry"],
+      "children": ["/math/geometry/trigonometry"],
+      "current": "/math/geometry",
+      "locKey": "information_architecture.us_taxonomy.math.geometry.name",
+      "parent": "/math",
+      "subject": "math"
+    },
+    "/math/geometry/trigonometry": {
+      "classifications": ["Math", "Geometry", "Trigonometry"],
+      "current": "/math/geometry/trigonometry",
+      "locKey": "information_architecture.us_taxonomy.math.geometry.trigonometry.name",
+      "parent": "/math/geometry",
+      "subject": "math"
+    },
+    "/math/math-foundations": {
+      "classifications": ["Math", "Math Foundations"],
+      "children": [],
+      "current": "/math/math-foundations",
+      "locKey": "information_architecture.us_taxonomy.math.math_foundations.name",
+      "parent": "/math",
+      "subject": "math"
+    },
+    "/math/probability": {
+      "classifications": ["Math", "Probability"],
+      "children": [],
+      "current": "/math/probability",
+      "locKey": "information_architecture.us_taxonomy.math.probability.name",
+      "parent": "/math",
+      "subject": "math"
+    },
+    "/math/statistics": {
+      "classifications": ["Math", "Statistics"],
+      "children": [],
+      "current": "/math/statistics",
+      "locKey": "information_architecture.us_taxonomy.math.statistics.name",
+      "parent": "/math",
+      "subject": "math"
+    },
+    "/other": {
+      "classifications": ["Other"],
+      "children": ["/other/computer-skills", "/other/hobbies", "/other/sports"],
+      "current": "/other",
+      "locKey": "information_architecture.us_taxonomy.other.name",
+      "subject": "other"
+    },
+    "/other/computer-skills": {
+      "classifications": ["Other", "Computer Skills"],
+      "children": [],
+      "current": "/other/computer-skills",
+      "locKey": "information_architecture.us_taxonomy.other.computer_skills.name",
+      "parent": "/other",
+      "subject": "other"
+    },
+    "/other/hobbies": {
+      "classifications": ["Other", "Hobbies"],
+      "children": [],
+      "current": "/other/hobbies",
+      "locKey": "information_architecture.us_taxonomy.other.hobbies.name",
+      "parent": "/other",
+      "subject": "other"
+    },
+    "/other/sports": {
+      "classifications": ["Other", "Sports"],
+      "children": [],
+      "current": "/other/sports",
+      "locKey": "information_architecture.us_taxonomy.other.sports.name",
+      "parent": "/other",
+      "subject": "other"
+    },
+    "/science": {
+      "classifications": ["Science"],
+      "children": [
+        "/science/biology",
+        "/science/chemistry",
+        "/science/computer-science",
+        "/science/earth-science",
+        "/science/engineering",
+        "/science/medicine",
+        "/science/physics"
+      ],
+      "current": "/science",
+      "locKey": "information_architecture.us_taxonomy.science.name",
+      "subject": "science"
+    },
+    "/science/biology": {
+      "classifications": ["Science", "Biology"],
+      "children": [
+        "/science/biology/anatomy",
+        "/science/biology/animal-science",
+        "/science/biology/biochemistry",
+        "/science/biology/bioinformatics",
+        "/science/biology/biophysics",
+        "/science/biology/biotechnology",
+        "/science/biology/botany",
+        "/science/biology/cell-biology",
+        "/science/biology/ecology",
+        "/science/biology/genetics",
+        "/science/biology/histology",
+        "/science/biology/human-biology",
+        "/science/biology/immunology",
+        "/science/biology/life-science",
+        "/science/biology/marine-biology",
+        "/science/biology/microbiology",
+        "/science/biology/molecular-biology",
+        "/science/biology/mycology",
+        "/science/biology/neuroscience",
+        "/science/biology/parasitology",
+        "/science/biology/pathology",
+        "/science/biology/physiology",
+        "/science/biology/virology",
+        "/science/biology/zoology"
+      ],
+      "current": "/science/biology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.name",
+      "parent": "/science",
+      "subject": "science"
+    },
+    "/science/biology/anatomy": {
+      "classifications": ["Science", "Biology", "Anatomy"],
+      "current": "/science/biology/anatomy",
+      "locKey": "information_architecture.us_taxonomy.science.biology.anatomy.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/animal-science": {
+      "classifications": ["Science", "Biology", "Animal Science"],
+      "current": "/science/biology/animal-science",
+      "locKey": "information_architecture.us_taxonomy.science.biology.animal_science.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/biochemistry": {
+      "classifications": ["Science", "Biology", "Biochemistry"],
+      "current": "/science/biology/biochemistry",
+      "locKey": "information_architecture.us_taxonomy.science.biology.biochemistry.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/bioinformatics": {
+      "classifications": ["Science", "Biology", "Bioinformatics"],
+      "current": "/science/biology/bioinformatics",
+      "locKey": "information_architecture.us_taxonomy.science.biology.bioinformatics.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/biophysics": {
+      "classifications": ["Science", "Biology", "Biophysics"],
+      "current": "/science/biology/biophysics",
+      "locKey": "information_architecture.us_taxonomy.science.biology.biophysics.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/biotechnology": {
+      "classifications": ["Science", "Biology", "Biotechnology"],
+      "current": "/science/biology/biotechnology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.biotechnology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/botany": {
+      "classifications": ["Science", "Biology", "Botany"],
+      "current": "/science/biology/botany",
+      "locKey": "information_architecture.us_taxonomy.science.biology.botany.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/cell-biology": {
+      "classifications": ["Science", "Biology", "Cell Biology"],
+      "current": "/science/biology/cell-biology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.cell_biology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/ecology": {
+      "classifications": ["Science", "Biology", "Ecology"],
+      "current": "/science/biology/ecology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.ecology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/genetics": {
+      "classifications": ["Science", "Biology", "Genetics"],
+      "current": "/science/biology/genetics",
+      "locKey": "information_architecture.us_taxonomy.science.biology.genetics.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/histology": {
+      "classifications": ["Science", "Biology", "Histology"],
+      "current": "/science/biology/histology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.histology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/human-biology": {
+      "classifications": ["Science", "Biology", "Human Biology"],
+      "current": "/science/biology/human-biology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.human_biology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/immunology": {
+      "classifications": ["Science", "Biology", "Immunology"],
+      "current": "/science/biology/immunology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.immunology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/life-science": {
+      "classifications": ["Science", "Biology", "Life Science"],
+      "current": "/science/biology/life-science",
+      "locKey": "information_architecture.us_taxonomy.science.biology.life_science.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/marine-biology": {
+      "classifications": ["Science", "Biology", "Marine Biology"],
+      "current": "/science/biology/marine-biology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.marine_biology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/microbiology": {
+      "classifications": ["Science", "Biology", "Microbiology"],
+      "current": "/science/biology/microbiology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.microbiology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/molecular-biology": {
+      "classifications": ["Science", "Biology", "Molecular Biology"],
+      "current": "/science/biology/molecular-biology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.molecular_biology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/mycology": {
+      "classifications": ["Science", "Biology", "Mycology"],
+      "current": "/science/biology/mycology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.mycology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/neuroscience": {
+      "classifications": ["Science", "Biology", "Neuroscience"],
+      "current": "/science/biology/neuroscience",
+      "locKey": "information_architecture.us_taxonomy.science.biology.neuroscience.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/parasitology": {
+      "classifications": ["Science", "Biology", "Parasitology"],
+      "current": "/science/biology/parasitology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.parasitology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/pathology": {
+      "classifications": ["Science", "Biology", "Pathology"],
+      "current": "/science/biology/pathology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.pathology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/physiology": {
+      "classifications": ["Science", "Biology", "Physiology"],
+      "current": "/science/biology/physiology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.physiology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/virology": {
+      "classifications": ["Science", "Biology", "Virology"],
+      "current": "/science/biology/virology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.virology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/biology/zoology": {
+      "classifications": ["Science", "Biology", "Zoology"],
+      "current": "/science/biology/zoology",
+      "locKey": "information_architecture.us_taxonomy.science.biology.zoology.name",
+      "parent": "/science/biology",
+      "subject": "science"
+    },
+    "/science/chemistry": {
+      "classifications": ["Science", "Chemistry"],
+      "children": [
+        "/science/chemistry/analytical-chemistry",
+        "/science/chemistry/biological-chemistry",
+        "/science/chemistry/inorganic-chemistry",
+        "/science/chemistry/organic-chemistry",
+        "/science/chemistry/periodic-table-of-elements",
+        "/science/chemistry/physical-chemistry"
+      ],
+      "current": "/science/chemistry",
+      "locKey": "information_architecture.us_taxonomy.science.chemistry.name",
+      "parent": "/science",
+      "subject": "science"
+    },
+    "/science/chemistry/analytical-chemistry": {
+      "classifications": ["Science", "Chemistry", "Analytical Chemistry"],
+      "current": "/science/chemistry/analytical-chemistry",
+      "locKey": "information_architecture.us_taxonomy.science.chemistry.analytical_chemistry.name",
+      "parent": "/science/chemistry",
+      "subject": "science"
+    },
+    "/science/chemistry/biological-chemistry": {
+      "classifications": ["Science", "Chemistry", "Biological Chemistry"],
+      "current": "/science/chemistry/biological-chemistry",
+      "locKey": "information_architecture.us_taxonomy.science.chemistry.biological_chemistry.name",
+      "parent": "/science/chemistry",
+      "subject": "science"
+    },
+    "/science/chemistry/inorganic-chemistry": {
+      "classifications": ["Science", "Chemistry", "Inorganic Chemistry"],
+      "current": "/science/chemistry/inorganic-chemistry",
+      "locKey": "information_architecture.us_taxonomy.science.chemistry.inorganic_chemistry.name",
+      "parent": "/science/chemistry",
+      "subject": "science"
+    },
+    "/science/chemistry/organic-chemistry": {
+      "classifications": ["Science", "Chemistry", "Organic Chemistry"],
+      "current": "/science/chemistry/organic-chemistry",
+      "locKey": "information_architecture.us_taxonomy.science.chemistry.organic_chemistry.name",
+      "parent": "/science/chemistry",
+      "subject": "science"
+    },
+    "/science/chemistry/periodic-table-of-elements": {
+      "classifications": ["Science", "Chemistry", "Periodic Table Of Elements"],
+      "current": "/science/chemistry/periodic-table-of-elements",
+      "locKey": "information_architecture.us_taxonomy.science.chemistry.periodic_table_of_elements.name",
+      "parent": "/science/chemistry",
+      "subject": "science"
+    },
+    "/science/chemistry/physical-chemistry": {
+      "classifications": ["Science", "Chemistry", "Physical Chemistry"],
+      "current": "/science/chemistry/physical-chemistry",
+      "locKey": "information_architecture.us_taxonomy.science.chemistry.physical_chemistry.name",
+      "parent": "/science/chemistry",
+      "subject": "science"
+    },
+    "/science/computer-science": {
+      "classifications": ["Science", "Computer Science"],
+      "children": [
+        "/science/computer-science/algorithms",
+        "/science/computer-science/artificial-intelligence",
+        "/science/computer-science/computational-theory",
+        "/science/computer-science/computer-architecture",
+        "/science/computer-science/computer-graphics",
+        "/science/computer-science/computer-security-and-reliability",
+        "/science/computer-science/information-architecture",
+        "/science/computer-science/software-engineering"
+      ],
+      "current": "/science/computer-science",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.name",
+      "parent": "/science",
+      "subject": "science"
+    },
+    "/science/computer-science/algorithms": {
+      "classifications": ["Science", "Computer Science", "Algorithms"],
+      "current": "/science/computer-science/algorithms",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.algorithms.name",
+      "parent": "/science/computer-science",
+      "subject": "science"
+    },
+    "/science/computer-science/artificial-intelligence": {
+      "classifications": [
+        "Science",
+        "Computer Science",
+        "Artificial Intelligence"
+      ],
+      "current": "/science/computer-science/artificial-intelligence",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.artificial_intelligence.name",
+      "parent": "/science/computer-science",
+      "subject": "science"
+    },
+    "/science/computer-science/computational-theory": {
+      "classifications": [
+        "Science",
+        "Computer Science",
+        "Computational Theory"
+      ],
+      "current": "/science/computer-science/computational-theory",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.computational_theory.name",
+      "parent": "/science/computer-science",
+      "subject": "science"
+    },
+    "/science/computer-science/computer-architecture": {
+      "classifications": [
+        "Science",
+        "Computer Science",
+        "Computer Architecture"
+      ],
+      "current": "/science/computer-science/computer-architecture",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.computer_architecture.name",
+      "parent": "/science/computer-science",
+      "subject": "science"
+    },
+    "/science/computer-science/computer-graphics": {
+      "classifications": ["Science", "Computer Science", "Computer Graphics"],
+      "current": "/science/computer-science/computer-graphics",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.computer_graphics.name",
+      "parent": "/science/computer-science",
+      "subject": "science"
+    },
+    "/science/computer-science/computer-security-and-reliability": {
+      "classifications": [
+        "Science",
+        "Computer Science",
+        "Computer Security And Reliability"
+      ],
+      "current": "/science/computer-science/computer-security-and-reliability",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.computer_security_and_reliability.name",
+      "parent": "/science/computer-science",
+      "subject": "science"
+    },
+    "/science/computer-science/information-architecture": {
+      "classifications": [
+        "Science",
+        "Computer Science",
+        "Information Architecture"
+      ],
+      "current": "/science/computer-science/information-architecture",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.information_architecture.name",
+      "parent": "/science/computer-science",
+      "subject": "science"
+    },
+    "/science/computer-science/software-engineering": {
+      "classifications": [
+        "Science",
+        "Computer Science",
+        "Software Engineering"
+      ],
+      "current": "/science/computer-science/software-engineering",
+      "locKey": "information_architecture.us_taxonomy.science.computer_science.software_engineering.name",
+      "parent": "/science/computer-science",
+      "subject": "science"
+    },
+    "/science/earth-science": {
+      "classifications": ["Science", "Earth Science"],
+      "children": [
+        "/science/earth-science/biogeography",
+        "/science/earth-science/climatology",
+        "/science/earth-science/environmental-science",
+        "/science/earth-science/geology",
+        "/science/earth-science/oceanography"
+      ],
+      "current": "/science/earth-science",
+      "locKey": "information_architecture.us_taxonomy.science.earth_science.name",
+      "parent": "/science",
+      "subject": "science"
+    },
+    "/science/earth-science/biogeography": {
+      "classifications": ["Science", "Earth Science", "Biogeography"],
+      "current": "/science/earth-science/biogeography",
+      "locKey": "information_architecture.us_taxonomy.science.earth_science.biogeography.name",
+      "parent": "/science/earth-science",
+      "subject": "science"
+    },
+    "/science/earth-science/climatology": {
+      "classifications": ["Science", "Earth Science", "Climatology"],
+      "current": "/science/earth-science/climatology",
+      "locKey": "information_architecture.us_taxonomy.science.earth_science.climatology.name",
+      "parent": "/science/earth-science",
+      "subject": "science"
+    },
+    "/science/earth-science/environmental-science": {
+      "classifications": ["Science", "Earth Science", "Environmental Science"],
+      "current": "/science/earth-science/environmental-science",
+      "locKey": "information_architecture.us_taxonomy.science.earth_science.environmental_science.name",
+      "parent": "/science/earth-science",
+      "subject": "science"
+    },
+    "/science/earth-science/geology": {
+      "classifications": ["Science", "Earth Science", "Geology"],
+      "current": "/science/earth-science/geology",
+      "locKey": "information_architecture.us_taxonomy.science.earth_science.geology.name",
+      "parent": "/science/earth-science",
+      "subject": "science"
+    },
+    "/science/earth-science/oceanography": {
+      "classifications": ["Science", "Earth Science", "Oceanography"],
+      "current": "/science/earth-science/oceanography",
+      "locKey": "information_architecture.us_taxonomy.science.earth_science.oceanography.name",
+      "parent": "/science/earth-science",
+      "subject": "science"
+    },
+    "/science/engineering": {
+      "classifications": ["Science", "Engineering"],
+      "children": [
+        "/science/engineering/chemical-engineering",
+        "/science/engineering/civil-engineering",
+        "/science/engineering/electrical-engineering",
+        "/science/engineering/materials-science",
+        "/science/engineering/mechanical-engineering"
+      ],
+      "current": "/science/engineering",
+      "locKey": "information_architecture.us_taxonomy.science.engineering.name",
+      "parent": "/science",
+      "subject": "science"
+    },
+    "/science/engineering/chemical-engineering": {
+      "classifications": ["Science", "Engineering", "Chemical Engineering"],
+      "current": "/science/engineering/chemical-engineering",
+      "locKey": "information_architecture.us_taxonomy.science.engineering.chemical_engineering.name",
+      "parent": "/science/engineering",
+      "subject": "science"
+    },
+    "/science/engineering/civil-engineering": {
+      "classifications": ["Science", "Engineering", "Civil Engineering"],
+      "current": "/science/engineering/civil-engineering",
+      "locKey": "information_architecture.us_taxonomy.science.engineering.civil_engineering.name",
+      "parent": "/science/engineering",
+      "subject": "science"
+    },
+    "/science/engineering/electrical-engineering": {
+      "classifications": ["Science", "Engineering", "Electrical Engineering"],
+      "current": "/science/engineering/electrical-engineering",
+      "locKey": "information_architecture.us_taxonomy.science.engineering.electrical_engineering.name",
+      "parent": "/science/engineering",
+      "subject": "science"
+    },
+    "/science/engineering/materials-science": {
+      "classifications": ["Science", "Engineering", "Materials Science"],
+      "current": "/science/engineering/materials-science",
+      "locKey": "information_architecture.us_taxonomy.science.engineering.materials_science.name",
+      "parent": "/science/engineering",
+      "subject": "science"
+    },
+    "/science/engineering/mechanical-engineering": {
+      "classifications": ["Science", "Engineering", "Mechanical Engineering"],
+      "current": "/science/engineering/mechanical-engineering",
+      "locKey": "information_architecture.us_taxonomy.science.engineering.mechanical_engineering.name",
+      "parent": "/science/engineering",
+      "subject": "science"
+    },
+    "/science/medicine": {
+      "classifications": ["Science", "Medicine"],
+      "children": [
+        "/science/medicine/alternative-medicine",
+        "/science/medicine/cardiology",
+        "/science/medicine/dentistry",
+        "/science/medicine/dermatology",
+        "/science/medicine/emergency-medicine",
+        "/science/medicine/gastroenterology",
+        "/science/medicine/gynecology",
+        "/science/medicine/health-computing",
+        "/science/medicine/hematology",
+        "/science/medicine/hepatology",
+        "/science/medicine/infectious-disease",
+        "/science/medicine/nephrology",
+        "/science/medicine/neurology",
+        "/science/medicine/nursing",
+        "/science/medicine/nutrition",
+        "/science/medicine/obstetrics",
+        "/science/medicine/occupational-therapy",
+        "/science/medicine/oncology",
+        "/science/medicine/ophthalmology",
+        "/science/medicine/optometry",
+        "/science/medicine/pathophysiology",
+        "/science/medicine/pediatrics",
+        "/science/medicine/physical-therapy",
+        "/science/medicine/physiotherapy",
+        "/science/medicine/podiatry",
+        "/science/medicine/psychiatry",
+        "/science/medicine/public-health",
+        "/science/medicine/pulmonology",
+        "/science/medicine/radiology",
+        "/science/medicine/rheumatology",
+        "/science/medicine/surgery",
+        "/science/medicine/urology",
+        "/science/medicine/veterinary-medicine"
+      ],
+      "current": "/science/medicine",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.name",
+      "parent": "/science",
+      "subject": "science"
+    },
+    "/science/medicine/alternative-medicine": {
+      "classifications": ["Science", "Medicine", "Alternative Medicine"],
+      "current": "/science/medicine/alternative-medicine",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.alternative_medicine.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/cardiology": {
+      "classifications": ["Science", "Medicine", "Cardiology"],
+      "current": "/science/medicine/cardiology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.cardiology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/dentistry": {
+      "classifications": ["Science", "Medicine", "Dentistry"],
+      "current": "/science/medicine/dentistry",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.dentistry.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/dermatology": {
+      "classifications": ["Science", "Medicine", "Dermatology"],
+      "current": "/science/medicine/dermatology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.dermatology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/emergency-medicine": {
+      "classifications": ["Science", "Medicine", "Emergency Medicine"],
+      "current": "/science/medicine/emergency-medicine",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.emergency_medicine.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/gastroenterology": {
+      "classifications": ["Science", "Medicine", "Gastroenterology"],
+      "current": "/science/medicine/gastroenterology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.gastroenterology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/gynecology": {
+      "classifications": ["Science", "Medicine", "Gynecology"],
+      "current": "/science/medicine/gynecology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.gynecology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/health-computing": {
+      "classifications": ["Science", "Medicine", "Health Computing"],
+      "current": "/science/medicine/health-computing",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.health_computing.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/hematology": {
+      "classifications": ["Science", "Medicine", "Hematology"],
+      "current": "/science/medicine/hematology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.hematology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/hepatology": {
+      "classifications": ["Science", "Medicine", "Hepatology"],
+      "current": "/science/medicine/hepatology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.hepatology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/infectious-disease": {
+      "classifications": ["Science", "Medicine", "Infectious Disease"],
+      "current": "/science/medicine/infectious-disease",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.infectious_disease.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/nephrology": {
+      "classifications": ["Science", "Medicine", "Nephrology"],
+      "current": "/science/medicine/nephrology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.nephrology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/neurology": {
+      "classifications": ["Science", "Medicine", "Neurology"],
+      "current": "/science/medicine/neurology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.neurology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/nursing": {
+      "classifications": ["Science", "Medicine", "Nursing"],
+      "current": "/science/medicine/nursing",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.nursing.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/nutrition": {
+      "classifications": ["Science", "Medicine", "Nutrition"],
+      "current": "/science/medicine/nutrition",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.nutrition.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/obstetrics": {
+      "classifications": ["Science", "Medicine", "Obstetrics"],
+      "current": "/science/medicine/obstetrics",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.obstetrics.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/occupational-therapy": {
+      "classifications": ["Science", "Medicine", "Occupational Therapy"],
+      "current": "/science/medicine/occupational-therapy",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.occupational_therapy.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/oncology": {
+      "classifications": ["Science", "Medicine", "Oncology"],
+      "current": "/science/medicine/oncology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.oncology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/ophthalmology": {
+      "classifications": ["Science", "Medicine", "Ophthalmology"],
+      "current": "/science/medicine/ophthalmology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.ophthalmology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/optometry": {
+      "classifications": ["Science", "Medicine", "Optometry"],
+      "current": "/science/medicine/optometry",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.optometry.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/pathophysiology": {
+      "classifications": ["Science", "Medicine", "Pathophysiology"],
+      "current": "/science/medicine/pathophysiology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.pathophysiology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/pediatrics": {
+      "classifications": ["Science", "Medicine", "Pediatrics"],
+      "current": "/science/medicine/pediatrics",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.pediatrics.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/physical-therapy": {
+      "classifications": ["Science", "Medicine", "Physical Therapy"],
+      "current": "/science/medicine/physical-therapy",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.physical_therapy.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/physiotherapy": {
+      "classifications": ["Science", "Medicine", "Physiotherapy"],
+      "current": "/science/medicine/physiotherapy",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.physiotherapy.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/podiatry": {
+      "classifications": ["Science", "Medicine", "Podiatry"],
+      "current": "/science/medicine/podiatry",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.podiatry.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/psychiatry": {
+      "classifications": ["Science", "Medicine", "Psychiatry"],
+      "current": "/science/medicine/psychiatry",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.psychiatry.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/public-health": {
+      "classifications": ["Science", "Medicine", "Public Health"],
+      "current": "/science/medicine/public-health",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.public_health.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/pulmonology": {
+      "classifications": ["Science", "Medicine", "Pulmonology"],
+      "current": "/science/medicine/pulmonology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.pulmonology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/radiology": {
+      "classifications": ["Science", "Medicine", "Radiology"],
+      "current": "/science/medicine/radiology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.radiology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/rheumatology": {
+      "classifications": ["Science", "Medicine", "Rheumatology"],
+      "current": "/science/medicine/rheumatology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.rheumatology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/surgery": {
+      "classifications": ["Science", "Medicine", "Surgery"],
+      "current": "/science/medicine/surgery",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.surgery.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/urology": {
+      "classifications": ["Science", "Medicine", "Urology"],
+      "current": "/science/medicine/urology",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.urology.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/medicine/veterinary-medicine": {
+      "classifications": ["Science", "Medicine", "Veterinary Medicine"],
+      "current": "/science/medicine/veterinary-medicine",
+      "locKey": "information_architecture.us_taxonomy.science.medicine.veterinary_medicine.name",
+      "parent": "/science/medicine",
+      "subject": "science"
+    },
+    "/science/physics": {
+      "classifications": ["Science", "Physics"],
+      "children": [
+        "/science/physics/biomechanics",
+        "/science/physics/thermodynamics"
+      ],
+      "current": "/science/physics",
+      "locKey": "information_architecture.us_taxonomy.science.physics.name",
+      "parent": "/science",
+      "subject": "science"
+    },
+    "/science/physics/biomechanics": {
+      "classifications": ["Science", "Physics", "Biomechanics"],
+      "current": "/science/physics/biomechanics",
+      "locKey": "information_architecture.us_taxonomy.science.physics.biomechanics.name",
+      "parent": "/science/physics",
+      "subject": "science"
+    },
+    "/science/physics/thermodynamics": {
+      "classifications": ["Science", "Physics", "Thermodynamics"],
+      "current": "/science/physics/thermodynamics",
+      "locKey": "information_architecture.us_taxonomy.science.physics.thermodynamics.name",
+      "parent": "/science/physics",
+      "subject": "science"
+    },
+    "/social-science": {
+      "classifications": ["Social Science"],
+      "children": [
+        "/social-science/anthropology",
+        "/social-science/business",
+        "/social-science/economics",
+        "/social-science/human-geography",
+        "/social-science/law",
+        "/social-science/political-science",
+        "/social-science/psychology",
+        "/social-science/sociology",
+        "/social-science/world-geography"
+      ],
+      "current": "/social-science",
+      "locKey": "information_architecture.us_taxonomy.social_science.name",
+      "subject": "social science"
+    },
+    "/social-science/anthropology": {
+      "classifications": ["Social Science", "Anthropology"],
+      "children": [
+        "/social-science/anthropology/archaeology",
+        "/social-science/anthropology/biological-anthropology",
+        "/social-science/anthropology/cultural-anthropology"
+      ],
+      "current": "/social-science/anthropology",
+      "locKey": "information_architecture.us_taxonomy.social_science.anthropology.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/anthropology/archaeology": {
+      "classifications": ["Social Science", "Anthropology", "Archaeology"],
+      "current": "/social-science/anthropology/archaeology",
+      "locKey": "information_architecture.us_taxonomy.social_science.anthropology.archaeology.name",
+      "parent": "/social-science/anthropology",
+      "subject": "social science"
+    },
+    "/social-science/anthropology/biological-anthropology": {
+      "classifications": [
+        "Social Science",
+        "Anthropology",
+        "Biological Anthropology"
+      ],
+      "current": "/social-science/anthropology/biological-anthropology",
+      "locKey": "information_architecture.us_taxonomy.social_science.anthropology.biological_anthropology.name",
+      "parent": "/social-science/anthropology",
+      "subject": "social science"
+    },
+    "/social-science/anthropology/cultural-anthropology": {
+      "classifications": [
+        "Social Science",
+        "Anthropology",
+        "Cultural Anthropology"
+      ],
+      "current": "/social-science/anthropology/cultural-anthropology",
+      "locKey": "information_architecture.us_taxonomy.social_science.anthropology.cultural_anthropology.name",
+      "parent": "/social-science/anthropology",
+      "subject": "social science"
+    },
+    "/social-science/business": {
+      "classifications": ["Social Science", "Business"],
+      "children": [
+        "/social-science/business/advertising",
+        "/social-science/business/insurance"
+      ],
+      "current": "/social-science/business",
+      "locKey": "information_architecture.us_taxonomy.social_science.business.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/business/advertising": {
+      "classifications": ["Social Science", "Business", "Advertising"],
+      "current": "/social-science/business/advertising",
+      "locKey": "information_architecture.us_taxonomy.social_science.business.advertising.name",
+      "parent": "/social-science/business",
+      "subject": "social science"
+    },
+    "/social-science/business/insurance": {
+      "classifications": ["Social Science", "Business", "Insurance"],
+      "current": "/social-science/business/insurance",
+      "locKey": "information_architecture.us_taxonomy.social_science.business.insurance.name",
+      "parent": "/social-science/business",
+      "subject": "social science"
+    },
+    "/social-science/economics": {
+      "classifications": ["Social Science", "Economics"],
+      "children": [
+        "/social-science/economics/econometrics",
+        "/social-science/economics/finance",
+        "/social-science/economics/international-economics",
+        "/social-science/economics/macroeconomics",
+        "/social-science/economics/managerial-economics",
+        "/social-science/economics/microeconomics"
+      ],
+      "current": "/social-science/economics",
+      "locKey": "information_architecture.us_taxonomy.social_science.economics.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/economics/econometrics": {
+      "classifications": ["Social Science", "Economics", "Econometrics"],
+      "current": "/social-science/economics/econometrics",
+      "locKey": "information_architecture.us_taxonomy.social_science.economics.econometrics.name",
+      "parent": "/social-science/economics",
+      "subject": "social science"
+    },
+    "/social-science/economics/finance": {
+      "classifications": ["Social Science", "Economics", "Finance"],
+      "current": "/social-science/economics/finance",
+      "locKey": "information_architecture.us_taxonomy.social_science.economics.finance.name",
+      "parent": "/social-science/economics",
+      "subject": "social science"
+    },
+    "/social-science/economics/international-economics": {
+      "classifications": [
+        "Social Science",
+        "Economics",
+        "International Economics"
+      ],
+      "current": "/social-science/economics/international-economics",
+      "locKey": "information_architecture.us_taxonomy.social_science.economics.international_economics.name",
+      "parent": "/social-science/economics",
+      "subject": "social science"
+    },
+    "/social-science/economics/macroeconomics": {
+      "classifications": ["Social Science", "Economics", "Macroeconomics"],
+      "current": "/social-science/economics/macroeconomics",
+      "locKey": "information_architecture.us_taxonomy.social_science.economics.macroeconomics.name",
+      "parent": "/social-science/economics",
+      "subject": "social science"
+    },
+    "/social-science/economics/managerial-economics": {
+      "classifications": [
+        "Social Science",
+        "Economics",
+        "Managerial Economics"
+      ],
+      "current": "/social-science/economics/managerial-economics",
+      "locKey": "information_architecture.us_taxonomy.social_science.economics.managerial_economics.name",
+      "parent": "/social-science/economics",
+      "subject": "social science"
+    },
+    "/social-science/economics/microeconomics": {
+      "classifications": ["Social Science", "Economics", "Microeconomics"],
+      "current": "/social-science/economics/microeconomics",
+      "locKey": "information_architecture.us_taxonomy.social_science.economics.microeconomics.name",
+      "parent": "/social-science/economics",
+      "subject": "social science"
+    },
+    "/social-science/human-geography": {
+      "classifications": ["Social Science", "Human Geography"],
+      "children": ["/social-science/human-geography/health-geography"],
+      "current": "/social-science/human-geography",
+      "locKey": "information_architecture.us_taxonomy.social_science.human_geography.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/human-geography/health-geography": {
+      "classifications": [
+        "Social Science",
+        "Human Geography",
+        "Health Geography"
+      ],
+      "current": "/social-science/human-geography/health-geography",
+      "locKey": "information_architecture.us_taxonomy.social_science.human_geography.health_geography.name",
+      "parent": "/social-science/human-geography",
+      "subject": "social science"
+    },
+    "/social-science/law": {
+      "classifications": ["Social Science", "Law"],
+      "children": [
+        "/social-science/law/administrative-law",
+        "/social-science/law/civil-law",
+        "/social-science/law/comparative-law",
+        "/social-science/law/constitutional-law",
+        "/social-science/law/criminal-law"
+      ],
+      "current": "/social-science/law",
+      "locKey": "information_architecture.us_taxonomy.social_science.law.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/law/administrative-law": {
+      "classifications": ["Social Science", "Law", "Administrative Law"],
+      "current": "/social-science/law/administrative-law",
+      "locKey": "information_architecture.us_taxonomy.social_science.law.administrative_law.name",
+      "parent": "/social-science/law",
+      "subject": "social science"
+    },
+    "/social-science/law/civil-law": {
+      "classifications": ["Social Science", "Law", "Civil Law"],
+      "current": "/social-science/law/civil-law",
+      "locKey": "information_architecture.us_taxonomy.social_science.law.civil_law.name",
+      "parent": "/social-science/law",
+      "subject": "social science"
+    },
+    "/social-science/law/comparative-law": {
+      "classifications": ["Social Science", "Law", "Comparative Law"],
+      "current": "/social-science/law/comparative-law",
+      "locKey": "information_architecture.us_taxonomy.social_science.law.comparative_law.name",
+      "parent": "/social-science/law",
+      "subject": "social science"
+    },
+    "/social-science/law/constitutional-law": {
+      "classifications": ["Social Science", "Law", "Constitutional Law"],
+      "current": "/social-science/law/constitutional-law",
+      "locKey": "information_architecture.us_taxonomy.social_science.law.constitutional_law.name",
+      "parent": "/social-science/law",
+      "subject": "social science"
+    },
+    "/social-science/law/criminal-law": {
+      "classifications": ["Social Science", "Law", "Criminal Law"],
+      "current": "/social-science/law/criminal-law",
+      "locKey": "information_architecture.us_taxonomy.social_science.law.criminal_law.name",
+      "parent": "/social-science/law",
+      "subject": "social science"
+    },
+    "/social-science/political-science": {
+      "classifications": ["Social Science", "Political Science"],
+      "children": [
+        "/social-science/political-science/civics",
+        "/social-science/political-science/comparative-politics",
+        "/social-science/political-science/international-relations",
+        "/social-science/political-science/political-philosophy",
+        "/social-science/political-science/politics-of-the-united-states",
+        "/social-science/political-science/public-policy"
+      ],
+      "current": "/social-science/political-science",
+      "locKey": "information_architecture.us_taxonomy.social_science.political_science.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/political-science/civics": {
+      "classifications": ["Social Science", "Political Science", "Civics"],
+      "current": "/social-science/political-science/civics",
+      "locKey": "information_architecture.us_taxonomy.social_science.political_science.civics.name",
+      "parent": "/social-science/political-science",
+      "subject": "social science"
+    },
+    "/social-science/political-science/comparative-politics": {
+      "classifications": [
+        "Social Science",
+        "Political Science",
+        "Comparative Politics"
+      ],
+      "current": "/social-science/political-science/comparative-politics",
+      "locKey": "information_architecture.us_taxonomy.social_science.political_science.comparative_politics.name",
+      "parent": "/social-science/political-science",
+      "subject": "social science"
+    },
+    "/social-science/political-science/international-relations": {
+      "classifications": [
+        "Social Science",
+        "Political Science",
+        "International Relations"
+      ],
+      "current": "/social-science/political-science/international-relations",
+      "locKey": "information_architecture.us_taxonomy.social_science.political_science.international_relations.name",
+      "parent": "/social-science/political-science",
+      "subject": "social science"
+    },
+    "/social-science/political-science/political-philosophy": {
+      "classifications": [
+        "Social Science",
+        "Political Science",
+        "Political Philosophy"
+      ],
+      "current": "/social-science/political-science/political-philosophy",
+      "locKey": "information_architecture.us_taxonomy.social_science.political_science.political_philosophy.name",
+      "parent": "/social-science/political-science",
+      "subject": "social science"
+    },
+    "/social-science/political-science/politics-of-the-united-states": {
+      "classifications": [
+        "Social Science",
+        "Political Science",
+        "Politics Of The United States"
+      ],
+      "current": "/social-science/political-science/politics-of-the-united-states",
+      "locKey": "information_architecture.us_taxonomy.social_science.political_science.politics_of_the_united_states.name",
+      "parent": "/social-science/political-science",
+      "subject": "social science"
+    },
+    "/social-science/political-science/public-policy": {
+      "classifications": [
+        "Social Science",
+        "Political Science",
+        "Public Policy"
+      ],
+      "current": "/social-science/political-science/public-policy",
+      "locKey": "information_architecture.us_taxonomy.social_science.political_science.public_policy.name",
+      "parent": "/social-science/political-science",
+      "subject": "social science"
+    },
+    "/social-science/psychology": {
+      "classifications": ["Social Science", "Psychology"],
+      "children": [
+        "/social-science/psychology/abnormal-psychology",
+        "/social-science/psychology/biological-psychology",
+        "/social-science/psychology/clinical-neuropsychology",
+        "/social-science/psychology/clinical-psychology",
+        "/social-science/psychology/cognitive-psychology",
+        "/social-science/psychology/community-psychology",
+        "/social-science/psychology/counseling-psychology",
+        "/social-science/psychology/criminal-psychology",
+        "/social-science/psychology/developmental-psychology",
+        "/social-science/psychology/educational-psychology",
+        "/social-science/psychology/family-psychology",
+        "/social-science/psychology/health-psychology",
+        "/social-science/psychology/neuropsychology",
+        "/social-science/psychology/psychoanalysis",
+        "/social-science/psychology/psychopathology",
+        "/social-science/psychology/social-psychology"
+      ],
+      "current": "/social-science/psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/psychology/abnormal-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Abnormal Psychology"
+      ],
+      "current": "/social-science/psychology/abnormal-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.abnormal_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/biological-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Biological Psychology"
+      ],
+      "current": "/social-science/psychology/biological-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.biological_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/clinical-neuropsychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Clinical Neuropsychology"
+      ],
+      "current": "/social-science/psychology/clinical-neuropsychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.clinical_neuropsychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/clinical-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Clinical Psychology"
+      ],
+      "current": "/social-science/psychology/clinical-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.clinical_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/cognitive-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Cognitive Psychology"
+      ],
+      "current": "/social-science/psychology/cognitive-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.cognitive_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/community-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Community Psychology"
+      ],
+      "current": "/social-science/psychology/community-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.community_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/counseling-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Counseling Psychology"
+      ],
+      "current": "/social-science/psychology/counseling-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.counseling_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/criminal-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Criminal Psychology"
+      ],
+      "current": "/social-science/psychology/criminal-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.criminal_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/developmental-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Developmental Psychology"
+      ],
+      "current": "/social-science/psychology/developmental-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.developmental_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/educational-psychology": {
+      "classifications": [
+        "Social Science",
+        "Psychology",
+        "Educational Psychology"
+      ],
+      "current": "/social-science/psychology/educational-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.educational_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/family-psychology": {
+      "classifications": ["Social Science", "Psychology", "Family Psychology"],
+      "current": "/social-science/psychology/family-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.family_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/health-psychology": {
+      "classifications": ["Social Science", "Psychology", "Health Psychology"],
+      "current": "/social-science/psychology/health-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.health_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/neuropsychology": {
+      "classifications": ["Social Science", "Psychology", "Neuropsychology"],
+      "current": "/social-science/psychology/neuropsychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.neuropsychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/psychoanalysis": {
+      "classifications": ["Social Science", "Psychology", "Psychoanalysis"],
+      "current": "/social-science/psychology/psychoanalysis",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.psychoanalysis.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/psychopathology": {
+      "classifications": ["Social Science", "Psychology", "Psychopathology"],
+      "current": "/social-science/psychology/psychopathology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.psychopathology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/psychology/social-psychology": {
+      "classifications": ["Social Science", "Psychology", "Social Psychology"],
+      "current": "/social-science/psychology/social-psychology",
+      "locKey": "information_architecture.us_taxonomy.social_science.psychology.social_psychology.name",
+      "parent": "/social-science/psychology",
+      "subject": "social science"
+    },
+    "/social-science/sociology": {
+      "classifications": ["Social Science", "Sociology"],
+      "children": [
+        "/social-science/sociology/african-studies",
+        "/social-science/sociology/asian-studies",
+        "/social-science/sociology/criminology",
+        "/social-science/sociology/ethnic-studies",
+        "/social-science/sociology/gender-studies",
+        "/social-science/sociology/management",
+        "/social-science/sociology/middle-eastern-studies",
+        "/social-science/sociology/north-american-studies",
+        "/social-science/sociology/urban-studies"
+      ],
+      "current": "/social-science/sociology",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/sociology/african-studies": {
+      "classifications": ["Social Science", "Sociology", "African Studies"],
+      "current": "/social-science/sociology/african-studies",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.african_studies.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/sociology/asian-studies": {
+      "classifications": ["Social Science", "Sociology", "Asian Studies"],
+      "current": "/social-science/sociology/asian-studies",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.asian_studies.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/sociology/criminology": {
+      "classifications": ["Social Science", "Sociology", "Criminology"],
+      "current": "/social-science/sociology/criminology",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.criminology.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/sociology/ethnic-studies": {
+      "classifications": ["Social Science", "Sociology", "Ethnic Studies"],
+      "current": "/social-science/sociology/ethnic-studies",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.ethnic_studies.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/sociology/gender-studies": {
+      "classifications": ["Social Science", "Sociology", "Gender Studies"],
+      "current": "/social-science/sociology/gender-studies",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.gender_studies.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/sociology/management": {
+      "classifications": ["Social Science", "Sociology", "Management"],
+      "current": "/social-science/sociology/management",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.management.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/sociology/middle-eastern-studies": {
+      "classifications": [
+        "Social Science",
+        "Sociology",
+        "Middle Eastern Studies"
+      ],
+      "current": "/social-science/sociology/middle-eastern-studies",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.middle_eastern_studies.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/sociology/north-american-studies": {
+      "classifications": [
+        "Social Science",
+        "Sociology",
+        "North American Studies"
+      ],
+      "current": "/social-science/sociology/north-american-studies",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.north_american_studies.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/sociology/urban-studies": {
+      "classifications": ["Social Science", "Sociology", "Urban Studies"],
+      "current": "/social-science/sociology/urban-studies",
+      "locKey": "information_architecture.us_taxonomy.social_science.sociology.urban_studies.name",
+      "parent": "/social-science/sociology",
+      "subject": "social science"
+    },
+    "/social-science/world-geography": {
+      "classifications": ["Social Science", "World Geography"],
+      "children": [
+        "/social-science/world-geography/geography-of-africa",
+        "/social-science/world-geography/geography-of-asia",
+        "/social-science/world-geography/geography-of-australia",
+        "/social-science/world-geography/geography-of-central-america",
+        "/social-science/world-geography/geography-of-europe",
+        "/social-science/world-geography/geography-of-north-america",
+        "/social-science/world-geography/geography-of-south-america"
+      ],
+      "current": "/social-science/world-geography",
+      "locKey": "information_architecture.us_taxonomy.social_science.world_geography.name",
+      "parent": "/social-science",
+      "subject": "social science"
+    },
+    "/social-science/world-geography/geography-of-africa": {
+      "classifications": [
+        "Social Science",
+        "World Geography",
+        "Geography Of Africa"
+      ],
+      "current": "/social-science/world-geography/geography-of-africa",
+      "locKey": "information_architecture.us_taxonomy.social_science.world_geography.geography_of_africa.name",
+      "parent": "/social-science/world-geography",
+      "subject": "social science"
+    },
+    "/social-science/world-geography/geography-of-asia": {
+      "classifications": [
+        "Social Science",
+        "World Geography",
+        "Geography Of Asia"
+      ],
+      "current": "/social-science/world-geography/geography-of-asia",
+      "locKey": "information_architecture.us_taxonomy.social_science.world_geography.geography_of_asia.name",
+      "parent": "/social-science/world-geography",
+      "subject": "social science"
+    },
+    "/social-science/world-geography/geography-of-australia": {
+      "classifications": [
+        "Social Science",
+        "World Geography",
+        "Geography Of Australia"
+      ],
+      "current": "/social-science/world-geography/geography-of-australia",
+      "locKey": "information_architecture.us_taxonomy.social_science.world_geography.geography_of_australia.name",
+      "parent": "/social-science/world-geography",
+      "subject": "social science"
+    },
+    "/social-science/world-geography/geography-of-central-america": {
+      "classifications": [
+        "Social Science",
+        "World Geography",
+        "Geography Of Central America"
+      ],
+      "current": "/social-science/world-geography/geography-of-central-america",
+      "locKey": "information_architecture.us_taxonomy.social_science.world_geography.geography_of_central_america.name",
+      "parent": "/social-science/world-geography",
+      "subject": "social science"
+    },
+    "/social-science/world-geography/geography-of-europe": {
+      "classifications": [
+        "Social Science",
+        "World Geography",
+        "Geography Of Europe"
+      ],
+      "current": "/social-science/world-geography/geography-of-europe",
+      "locKey": "information_architecture.us_taxonomy.social_science.world_geography.geography_of_europe.name",
+      "parent": "/social-science/world-geography",
+      "subject": "social science"
+    },
+    "/social-science/world-geography/geography-of-north-america": {
+      "classifications": [
+        "Social Science",
+        "World Geography",
+        "Geography Of North America"
+      ],
+      "current": "/social-science/world-geography/geography-of-north-america",
+      "locKey": "information_architecture.us_taxonomy.social_science.world_geography.geography_of_north_america.name",
+      "parent": "/social-science/world-geography",
+      "subject": "social science"
+    },
+    "/social-science/world-geography/geography-of-south-america": {
+      "classifications": [
+        "Social Science",
+        "World Geography",
+        "Geography Of South America"
+      ],
+      "current": "/social-science/world-geography/geography-of-south-america",
+      "locKey": "information_architecture.us_taxonomy.social_science.world_geography.geography_of_south_america.name",
+      "parent": "/social-science/world-geography",
+      "subject": "social science"
+    }
+  },
+  "redirects": {
+    "arts-and-humanities": "/arts-and-humanities",
+    "art-history": "/arts-and-humanities/art-history",
+    "art-of-europe": "/arts-and-humanities/art-history/art-of-europe",
+    "baroque-art": "/arts-and-humanities/art-history/baroque-art",
+    "prehistoric-art": "/arts-and-humanities/art-history/prehistoric-art",
+    "dance": "/arts-and-humanities/dance",
+    "english": "/arts-and-humanities/english",
+    "linguistics": "/arts-and-humanities/english/linguistics",
+    "literature": "/arts-and-humanities/english/literature",
+    "film-and-tv": "/arts-and-humanities/film-and-tv",
+    "history": "/arts-and-humanities/history",
+    "ancient-history": "/arts-and-humanities/history/ancient-history",
+    "environmental-history": "/arts-and-humanities/history/environmental-history",
+    "history-of-africa": "/arts-and-humanities/history/history-of-africa",
+    "history-of-asia": "/arts-and-humanities/history/history-of-asia",
+    "history-of-australia": "/arts-and-humanities/history/history-of-australia",
+    "history-of-europe": "/arts-and-humanities/history/history-of-europe",
+    "history-of-iran": "/arts-and-humanities/history/history-of-iran",
+    "history-of-russia": "/arts-and-humanities/history/history-of-russia",
+    "history-of-the-americas": "/arts-and-humanities/history/history-of-the-americas",
+    "modern-history": "/arts-and-humanities/history/modern-history",
+    "scientific-history": "/arts-and-humanities/history/scientific-history",
+    "western-civilization": "/arts-and-humanities/history/western-civilization",
+    "music": "/arts-and-humanities/music",
+    "chamber-music": "/arts-and-humanities/music/chamber-music",
+    "music-composition": "/arts-and-humanities/music/music-composition",
+    "music-history": "/arts-and-humanities/music/music-history",
+    "music-theory": "/arts-and-humanities/music/music-theory",
+    "philosophy": "/arts-and-humanities/philosophy",
+    "ethics": "/arts-and-humanities/philosophy/ethics",
+    "logic": "/arts-and-humanities/philosophy/logic",
+    "theology": "/arts-and-humanities/philosophy/theology",
+    "theater": "/arts-and-humanities/theater",
+    "acting": "/arts-and-humanities/theater/acting",
+    "directing": "/arts-and-humanities/theater/directing",
+    "history-of-theater": "/arts-and-humanities/theater/history-of-theater",
+    "languages": "/languages",
+    "french": "/languages/french",
+    "german": "/languages/german",
+    "latin": "/languages/latin",
+    "spanish": "/languages/spanish",
+    "math": "/math",
+    "algebra": "/math/algebra",
+    "abstract-algebra": "/math/algebra/abstract-algebra",
+    "linear-algebra": "/math/algebra/linear-algebra",
+    "pre-algebra": "/math/algebra/pre-algebra",
+    "arithmetic": "/math/arithmetic",
+    "calculus": "/math/calculus",
+    "differential-equations": "/math/calculus/differential-equations",
+    "discrete-math": "/math/discrete-math",
+    "geometry": "/math/geometry",
+    "trigonometry": "/math/geometry/trigonometry",
+    "math-foundations": "/math/math-foundations",
+    "probability": "/math/probability",
+    "statistics": "/math/statistics",
+    "other": "/other",
+    "computer-skills": "/other/computer-skills",
+    "hobbies": "/other/hobbies",
+    "sports": "/other/sports",
+    "science": "/science",
+    "biology": "/science/biology",
+    "anatomy": "/science/biology/anatomy",
+    "animal-science": "/science/biology/animal-science",
+    "biochemistry": "/science/biology/biochemistry",
+    "bioinformatics": "/science/biology/bioinformatics",
+    "biophysics": "/science/biology/biophysics",
+    "biotechnology": "/science/biology/biotechnology",
+    "botany": "/science/biology/botany",
+    "cell-biology": "/science/biology/cell-biology",
+    "ecology": "/science/biology/ecology",
+    "genetics": "/science/biology/genetics",
+    "histology": "/science/biology/histology",
+    "human-biology": "/science/biology/human-biology",
+    "immunology": "/science/biology/immunology",
+    "life-science": "/science/biology/life-science",
+    "marine-biology": "/science/biology/marine-biology",
+    "microbiology": "/science/biology/microbiology",
+    "molecular-biology": "/science/biology/molecular-biology",
+    "mycology": "/science/biology/mycology",
+    "neuroscience": "/science/biology/neuroscience",
+    "parasitology": "/science/biology/parasitology",
+    "pathology": "/science/biology/pathology",
+    "physiology": "/science/biology/physiology",
+    "virology": "/science/biology/virology",
+    "zoology": "/science/biology/zoology",
+    "chemistry": "/science/chemistry",
+    "analytical-chemistry": "/science/chemistry/analytical-chemistry",
+    "biological-chemistry": "/science/chemistry/biological-chemistry",
+    "inorganic-chemistry": "/science/chemistry/inorganic-chemistry",
+    "organic-chemistry": "/science/chemistry/organic-chemistry",
+    "periodic-table-of-elements": "/science/chemistry/periodic-table-of-elements",
+    "physical-chemistry": "/science/chemistry/physical-chemistry",
+    "computer-science": "/science/computer-science",
+    "algorithms": "/science/computer-science/algorithms",
+    "artificial-intelligence": "/science/computer-science/artificial-intelligence",
+    "computational-theory": "/science/computer-science/computational-theory",
+    "computer-architecture": "/science/computer-science/computer-architecture",
+    "computer-graphics": "/science/computer-science/computer-graphics",
+    "computer-security-and-reliability": "/science/computer-science/computer-security-and-reliability",
+    "information-architecture": "/science/computer-science/information-architecture",
+    "software-engineering": "/science/computer-science/software-engineering",
+    "earth-science": "/science/earth-science",
+    "biogeography": "/science/earth-science/biogeography",
+    "climatology": "/science/earth-science/climatology",
+    "environmental-science": "/science/earth-science/environmental-science",
+    "geology": "/science/earth-science/geology",
+    "oceanography": "/science/earth-science/oceanography",
+    "engineering": "/science/engineering",
+    "chemical-engineering": "/science/engineering/chemical-engineering",
+    "civil-engineering": "/science/engineering/civil-engineering",
+    "electrical-engineering": "/science/engineering/electrical-engineering",
+    "materials-science": "/science/engineering/materials-science",
+    "mechanical-engineering": "/science/engineering/mechanical-engineering",
+    "medicine": "/science/medicine",
+    "alternative-medicine": "/science/medicine/alternative-medicine",
+    "cardiology": "/science/medicine/cardiology",
+    "dentistry": "/science/medicine/dentistry",
+    "dermatology": "/science/medicine/dermatology",
+    "emergency-medicine": "/science/medicine/emergency-medicine",
+    "gastroenterology": "/science/medicine/gastroenterology",
+    "gynecology": "/science/medicine/gynecology",
+    "health-computing": "/science/medicine/health-computing",
+    "hematology": "/science/medicine/hematology",
+    "hepatology": "/science/medicine/hepatology",
+    "infectious-disease": "/science/medicine/infectious-disease",
+    "nephrology": "/science/medicine/nephrology",
+    "neurology": "/science/medicine/neurology",
+    "nursing": "/science/medicine/nursing",
+    "nutrition": "/science/medicine/nutrition",
+    "obstetrics": "/science/medicine/obstetrics",
+    "occupational-therapy": "/science/medicine/occupational-therapy",
+    "oncology": "/science/medicine/oncology",
+    "ophthalmology": "/science/medicine/ophthalmology",
+    "optometry": "/science/medicine/optometry",
+    "pathophysiology": "/science/medicine/pathophysiology",
+    "pediatrics": "/science/medicine/pediatrics",
+    "physical-therapy": "/science/medicine/physical-therapy",
+    "physiotherapy": "/science/medicine/physiotherapy",
+    "podiatry": "/science/medicine/podiatry",
+    "psychiatry": "/science/medicine/psychiatry",
+    "public-health": "/science/medicine/public-health",
+    "pulmonology": "/science/medicine/pulmonology",
+    "radiology": "/science/medicine/radiology",
+    "rheumatology": "/science/medicine/rheumatology",
+    "surgery": "/science/medicine/surgery",
+    "urology": "/science/medicine/urology",
+    "veterinary-medicine": "/science/medicine/veterinary-medicine",
+    "physics": "/science/physics",
+    "biomechanics": "/science/physics/biomechanics",
+    "thermodynamics": "/science/physics/thermodynamics",
+    "social-science": "/social-science",
+    "anthropology": "/social-science/anthropology",
+    "archaeology": "/social-science/anthropology/archaeology",
+    "biological-anthropology": "/social-science/anthropology/biological-anthropology",
+    "cultural-anthropology": "/social-science/anthropology/cultural-anthropology",
+    "business": "/social-science/business",
+    "advertising": "/social-science/business/advertising",
+    "insurance": "/social-science/business/insurance",
+    "economics": "/social-science/economics",
+    "econometrics": "/social-science/economics/econometrics",
+    "finance": "/social-science/economics/finance",
+    "international-economics": "/social-science/economics/international-economics",
+    "macroeconomics": "/social-science/economics/macroeconomics",
+    "managerial-economics": "/social-science/economics/managerial-economics",
+    "microeconomics": "/social-science/economics/microeconomics",
+    "human-geography": "/social-science/human-geography",
+    "health-geography": "/social-science/human-geography/health-geography",
+    "law": "/social-science/law",
+    "administrative-law": "/social-science/law/administrative-law",
+    "civil-law": "/social-science/law/civil-law",
+    "comparative-law": "/social-science/law/comparative-law",
+    "constitutional-law": "/social-science/law/constitutional-law",
+    "criminal-law": "/social-science/law/criminal-law",
+    "political-science": "/social-science/political-science",
+    "civics": "/social-science/political-science/civics",
+    "comparative-politics": "/social-science/political-science/comparative-politics",
+    "international-relations": "/social-science/political-science/international-relations",
+    "political-philosophy": "/social-science/political-science/political-philosophy",
+    "politics-of-the-united-states": "/social-science/political-science/politics-of-the-united-states",
+    "public-policy": "/social-science/political-science/public-policy",
+    "psychology": "/social-science/psychology",
+    "abnormal-psychology": "/social-science/psychology/abnormal-psychology",
+    "biological-psychology": "/social-science/psychology/biological-psychology",
+    "clinical-neuropsychology": "/social-science/psychology/clinical-neuropsychology",
+    "clinical-psychology": "/social-science/psychology/clinical-psychology",
+    "cognitive-psychology": "/social-science/psychology/cognitive-psychology",
+    "community-psychology": "/social-science/psychology/community-psychology",
+    "counseling-psychology": "/social-science/psychology/counseling-psychology",
+    "criminal-psychology": "/social-science/psychology/criminal-psychology",
+    "developmental-psychology": "/social-science/psychology/developmental-psychology",
+    "educational-psychology": "/social-science/psychology/educational-psychology",
+    "family-psychology": "/social-science/psychology/family-psychology",
+    "health-psychology": "/social-science/psychology/health-psychology",
+    "neuropsychology": "/social-science/psychology/neuropsychology",
+    "psychoanalysis": "/social-science/psychology/psychoanalysis",
+    "psychopathology": "/social-science/psychology/psychopathology",
+    "social-psychology": "/social-science/psychology/social-psychology",
+    "sociology": "/social-science/sociology",
+    "african-studies": "/social-science/sociology/african-studies",
+    "asian-studies": "/social-science/sociology/asian-studies",
+    "criminology": "/social-science/sociology/criminology",
+    "ethnic-studies": "/social-science/sociology/ethnic-studies",
+    "gender-studies": "/social-science/sociology/gender-studies",
+    "management": "/social-science/sociology/management",
+    "middle-eastern-studies": "/social-science/sociology/middle-eastern-studies",
+    "north-american-studies": "/social-science/sociology/north-american-studies",
+    "urban-studies": "/social-science/sociology/urban-studies",
+    "world-geography": "/social-science/world-geography",
+    "geography-of-africa": "/social-science/world-geography/geography-of-africa",
+    "geography-of-asia": "/social-science/world-geography/geography-of-asia",
+    "geography-of-australia": "/social-science/world-geography/geography-of-australia",
+    "geography-of-central-america": "/social-science/world-geography/geography-of-central-america",
+    "geography-of-europe": "/social-science/world-geography/geography-of-europe",
+    "geography-of-north-america": "/social-science/world-geography/geography-of-north-america",
+    "geography-of-south-america": "/social-science/world-geography/geography-of-south-america"
+  },
+  "remove": [
+    "accompanying",
+    "acids_and_bases",
+    "acoustics",
+    "activities",
+    "adjectives",
+    "adobe_illustrator",
+    "adobe_photoshop",
+    "adverbs",
+    "africa_geography",
+    "african_history",
+    "agricultural_economics",
+    "algebraic_geometry",
+    "american_history",
+    "american_politics",
+    "american_studies",
+    "amino_acids",
+    "analysis",
+    "animals",
+    "animation",
+    "antarctica_geography",
+    "ap",
+    "applied_economics",
+    "applied_math",
+    "applied_philosophy",
+    "applied_physics",
+    "applied_psychology",
+    "applied_sociology",
+    "archery",
+    "architectural_sociology",
+    "art_of_africa",
+    "art_of_asia",
+    "art_of_oceania",
+    "art_of_the_islamic_world",
+    "asia_geography",
+    "asian_history",
+    "asian_psychology",
+    "astrobiology",
+    "atmospheric_chemistry",
+    "atmospheric_physics",
+    "australia_geography",
+    "australian_history",
+    "australian_studies",
+    "badminton",
+    "baseball",
+    "basketball",
+    "behavioral_economics",
+    "behavioral_geography",
+    "behavioral_sociology",
+    "billiards",
+    "biophysical_chemistry",
+    "bird_watching",
+    "black_psychology",
+    "board_gaming",
+    "body_parts",
+    "calligraphy",
+    "canadian_politics",
+    "canoeing",
+    "canon_law",
+    "cartography",
+    "central_america_geography",
+    "chemical_biology",
+    "choreography",
+    "church_music",
+    "cisco",
+    "classical_mechanics",
+    "classroom",
+    "clinical_laboratory_sciences",
+    "clothing",
+    "collective_behavior",
+    "college_algebra",
+    "colonialism",
+    "colors",
+    "combinatorics",
+    "community_informatics",
+    "comparative_psychology",
+    "comparative_sociology",
+    "competition_law",
+    "complex_analysis",
+    "complex_numbers",
+    "computational_biology",
+    "computational_chemistry",
+    "computer_networks",
+    "condensed_matter_physics",
+    "conducting",
+    "conflict_theory",
+    "conjugation",
+    "conjunctions",
+    "consumer_economics",
+    "consumer_psychology",
+    "contemporary_art",
+    "cooking",
+    "cricket",
+    "cryogenics",
+    "cultural_geography",
+    "cultural_psychology",
+    "cultural_sociology",
+    "current_events",
+    "cycling",
+    "dance_notation",
+    "data_structures",
+    "data_visualization",
+    "databases",
+    "decision_analysis",
+    "declension",
+    "decorative_arts",
+    "development_economics",
+    "development_geography",
+    "developmental_biology",
+    "differential_algebra",
+    "differential_geometry",
+    "difficult_concepts",
+    "digital_sociology",
+    "distributed_computing",
+    "dramaturgy",
+    "dynamic_programming",
+    "dynamical_systems",
+    "early_music",
+    "ecological_economics",
+    "ecological_psychology",
+    "economic_geography",
+    "economic_history",
+    "economic_sociology",
+    "economic_systems",
+    "educational_sociology",
+    "educational_technology",
+    "electromagnetism",
+    "endocrinology",
+    "energy_economics",
+    "environmental_chemistry",
+    "environmental_economics",
+    "environmental_psychology",
+    "environmental_sociology",
+    "ergonomics",
+    "ethnomusicology",
+    "europe_geography",
+    "european_art",
+    "european_history",
+    "european_studies",
+    "evolutionary_biology",
+    "evolutionary_psychology",
+    "evolutionary_sociology",
+    "excel",
+    "experimental_economics",
+    "experimental_physics",
+    "experimental_psychology",
+    "expressions",
+    "feelings_and_emotions",
+    "feminist_sociology",
+    "figure_skating",
+    "film_criticism",
+    "film_theory",
+    "filmmaking",
+    "financial_mathematics",
+    "fluid_dynamics",
+    "food_and_dining",
+    "food_chemistry",
+    "football",
+    "forensic_psychology",
+    "fourier_analysis",
+    "game_design",
+    "gemology",
+    "geobiology",
+    "geography_of_antarctica",
+    "geomatics",
+    "geophysics",
+    "geopolitics",
+    "geriatrics",
+    "glaciology",
+    "golf",
+    "graph_theory",
+    "green_chemistry",
+    "green_economics",
+    "greetings",
+    "group_psychology",
+    "group_theory",
+    "growth_economics",
+    "gymnastics",
+    "gynaecology",
+    "health",
+    "health_informatics",
+    "hiking",
+    "histochemistry",
+    "historical_geography",
+    "history_of_computer_science",
+    "history_of_dance",
+    "history_of_india",
+    "history_of_indonesia",
+    "history_of_law",
+    "history_of_philosophy",
+    "hockey",
+    "home",
+    "human_computer_interaction",
+    "human_development_theory",
+    "humanistic_psychology",
+    "hydrology",
+    "hypothesis_testing",
+    "ib",
+    "immigration",
+    "imperialism",
+    "indian_history",
+    "indigenous_psychology",
+    "indonesian_history",
+    "industrial_organization",
+    "industrial_sociology",
+    "information_economics",
+    "institutional_economics",
+    "integers",
+    "integrated_math",
+    "intellectual_history",
+    "intensive_care_medicine",
+    "interactionism",
+    "internal_medicine",
+    "international_marketing",
+    "international_organizations",
+    "inventory_theory",
+    "iranian_history",
+    "islamic_law",
+    "jazz_studies",
+    "jewish_law",
+    "kayaking",
+    "kickball",
+    "labor_economics",
+    "lacrosse",
+    "language_geography",
+    "law_and_economics",
+    "legal_management",
+    "legal_psychology",
+    "linguistic_anthropology",
+    "live_action",
+    "marine_chemistry",
+    "marketing_geography",
+    "marketing_research",
+    "martial_arts",
+    "mathematical_analysis",
+    "mathematical_biology",
+    "mathematical_chemistry",
+    "mathematical_physics",
+    "mathematical_proofs",
+    "measure_theory",
+    "media_psychology",
+    "medical_pathology",
+    "medical_psychology",
+    "medical_sociology",
+    "medical_surgery",
+    "medical_terminology",
+    "medical_toxicology",
+    "medicinal_chemistry",
+    "medieval_art",
+    "meditation",
+    "metaphysics",
+    "military_geography",
+    "military_history",
+    "mixed_media",
+    "modernism",
+    "molecular_physics",
+    "monetary_economics",
+    "moral_psychology",
+    "multiplication",
+    "music__art_and_literature",
+    "music_education",
+    "music_psychology",
+    "music_therapy",
+    "musical_composition",
+    "musical_theater",
+    "musicology",
+    "nanotechnology",
+    "nationalism_studies",
+    "natural_numbers",
+    "natural_product_chemistry",
+    "nature_and_the_environment",
+    "neoclassical_art",
+    "neurochemistry",
+    "neuroeconomics",
+    "north_america_geography",
+    "nouns",
+    "nuclear_chemistry",
+    "number_theory",
+    "numbers",
+    "numerical_analysis",
+    "occupational_hygiene",
+    "occupational_psychology",
+    "occupational_toxicology",
+    "oenology",
+    "operating_systems",
+    "optical_physics",
+    "orchestral_studies",
+    "organizational_psychology",
+    "organology",
+    "organometallic_chemistry",
+    "otolaryngology",
+    "paleography",
+    "paleontology",
+    "parallel_computing",
+    "parapsychology",
+    "particle_physics",
+    "past_participles",
+    "peace_and_conflict_studies",
+    "pediatric_psychology",
+    "pedology",
+    "personality_psychology",
+    "pharmaceutical_sciences",
+    "phenomenology",
+    "photochemistry",
+    "photography",
+    "physical_fitness",
+    "physical_organic_chemistry",
+    "places",
+    "plasma_physics",
+    "playwrighting",
+    "policy_studies",
+    "political_behavior",
+    "political_culture",
+    "political_economy",
+    "political_geography",
+    "political_history",
+    "political_psychology",
+    "polyatomic_ions",
+    "polymer_chemistry",
+    "population_geography",
+    "positive_psychology",
+    "powerpoint",
+    "prepositions",
+    "preventive_medicine",
+    "primary_care",
+    "printmaking",
+    "probability_theory",
+    "procedural_law",
+    "product_design",
+    "professions",
+    "programming_languages",
+    "pronouns",
+    "psychobiology",
+    "psychology_of_religion",
+    "psychometrics",
+    "psychophysics",
+    "public_economics",
+    "public_law",
+    "puppetry",
+    "quantitative_psychology",
+    "quantum_computing",
+    "quantum_mechanics",
+    "questions",
+    "radiochemistry",
+    "racquet_sports",
+    "raquet_sports",
+    "rational_numbers",
+    "reading_vocabulary",
+    "real_analysis",
+    "real_estate_economics",
+    "real_numbers",
+    "recording",
+    "rehabilitation_psychology",
+    "relativity",
+    "religion_geography",
+    "resource_economics",
+    "ring_theory",
+    "rock_climbing",
+    "rodeo",
+    "rowing",
+    "rugby",
+    "russian_history",
+    "sailing",
+    "scenography",
+    "school_psychology",
+    "science_and_technology",
+    "scientific_names",
+    "sculpture",
+    "set_theory",
+    "sexology",
+    "shopping",
+    "skateboarding",
+    "skiing",
+    "snowboarding",
+    "soccer",
+    "social_and_political_philosophy",
+    "social_anthropology",
+    "social_choice_theory",
+    "social_geography",
+    "social_policy",
+    "social_relationships",
+    "social_theory",
+    "social_transformation",
+    "sociobiology",
+    "socioeconomics",
+    "sociolinguistics",
+    "sociology_of_aging",
+    "sociology_of_art",
+    "sociology_of_immigration",
+    "sociology_of_marriage",
+    "sociology_of_religion",
+    "sociology_of_science",
+    "sociology_of_terrorism",
+    "sociology_of_the_body",
+    "sociology_of_the_family",
+    "sociology_of_the_internet",
+    "softball",
+    "solid_state_chemistry",
+    "south_america_geography",
+    "space_science",
+    "spelling_vocabulary",
+    "sport_fishing",
+    "sport_psychology",
+    "sports_marketing",
+    "stage_design",
+    "stochastic_processes",
+    "structural_biology",
+    "studio_art",
+    "substantive_law",
+    "surface_chemistry",
+    "surfing",
+    "swimming",
+    "synthetic_chemistry",
+    "systematics",
+    "systems_analysis",
+    "systems_theory",
+    "technological_history",
+    "television_studies",
+    "tenses",
+    "textile_design",
+    "the_classroom",
+    "the_home",
+    "the_periodic_table_of_elements",
+    "theoretical_chemistry",
+    "theoretical_sociology",
+    "theory_of_computation",
+    "time",
+    "topology",
+    "tourism_geography",
+    "toy_design",
+    "traditional_medicine",
+    "transpersonal_psychology",
+    "transport_economics",
+    "transport_geography",
+    "traveling",
+    "trivia",
+    "typography",
+    "urban_geography",
+    "urban_history",
+    "user_experience_design",
+    "verbs",
+    "victimology",
+    "video_games",
+    "video_gaming",
+    "visual_arts",
+    "vlsi",
+    "vocabulary",
+    "volleyball",
+    "voting_behavior",
+    "weather_and_seasons",
+    "weight_lifting",
+    "weightlifting",
+    "welfare_economics",
+    "whale_watching",
+    "world_capitals",
+    "world_wars",
+    "yoga"
+  ]
+}
