@@ -1,26 +1,34 @@
-import { SubjectNode, SubjectsTaxonomy } from './subjects.schema';
+import { SubjectNode } from './subjects.schema';
 import subjects from './subjects';
-import { Firestore } from 'firebase/firestore/lite';
+import { doc, getDoc, getFirestore } from 'firebase/firestore';
+import { FirebaseApp } from 'firebase/app';
 
-export async function getSubjects(db: Firestore, locale?: string) {
+export async function getSubjects(fb: FirebaseApp, locale?: string) {
   return subjects.taxonomy;
 }
 
 export async function getSubject(
-  db: Firestore,
+  fb: FirebaseApp,
   classifications: { l1: string; l2?: string; l3?: string },
   locale?: string
 ): Promise<SubjectNode | null> {
-  const taxonomy = subjects.taxonomy as SubjectsTaxonomy;
-  const key = `/${Object.values(classifications)
+  const docId = `/${Object.values(classifications)
     .filter((x) => !!x)
     .join('/')}`;
-  const found = taxonomy[key];
-  return found ?? null;
+  const db = getFirestore(fb);
+  const docRef = doc(db, 'subjects', docId);
+  const docSnap = await getDoc(docRef);
+  if (docSnap.exists()) {
+    console.log('Document data:', docSnap.data());
+    return docSnap.data() as SubjectNode;
+  } else {
+    console.log('No such document!');
+    return null;
+  }
 }
 
 export async function addSubject(
-  db: Firestore,
+  fb: FirebaseApp,
   node: SubjectNode
 ): Promise<boolean> {
   console.log('creating node: ', node);

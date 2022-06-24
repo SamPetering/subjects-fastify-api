@@ -1,14 +1,11 @@
-import { FIREBASE_CONFIG } from 'config';
 import { FastifyInstance } from 'fastify';
 import fp from 'fastify-plugin';
 import { FirebaseApp, initializeApp } from 'firebase/app';
-import { getFirestore, Firestore } from 'firebase/firestore/lite';
+import { getFirestore, Firestore } from 'firebase/firestore';
 
 async function firebase(fastify: FastifyInstance, _: unknown) {
-  const firebaseApp = initializeApp(FIREBASE_CONFIG);
-  const db = getFirestore(firebaseApp);
+  const firebaseApp = initializeApp({});
   fastify.decorate('firebase', firebaseApp);
-  fastify.decorate('firestore', db);
 }
 
 export default fp(async (fastify, opts) => {
@@ -17,7 +14,6 @@ export default fp(async (fastify, opts) => {
 
 declare module 'fastify' {
   export interface FastifyInstance {
-    firebase(): FirebaseApp;
-    firestore(): Firestore;
+    firebase: FirebaseApp;
   }
 }
