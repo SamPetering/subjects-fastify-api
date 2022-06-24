@@ -12,19 +12,17 @@ export async function getSubject(
   classifications: { l1: string; l2?: string; l3?: string },
   locale?: string
 ): Promise<SubjectNode | null> {
-  const docId = `/${Object.values(classifications)
+  const docId = `\\${Object.values(classifications)
     .filter((x) => !!x)
-    .join('/')}`;
+    .join('\\')}`;
   const db = getFirestore(fb);
   const docRef = doc(db, 'subjects', docId);
   const docSnap = await getDoc(docRef);
   if (docSnap.exists()) {
-    console.log('Document data:', docSnap.data());
     return docSnap.data() as SubjectNode;
   } else {
-    console.log('No such document!');
-    return null;
   }
+  return null;
 }
 
 export async function addSubject(
