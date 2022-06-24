@@ -18,10 +18,7 @@ export async function getSubject(
   const db = getFirestore(fb);
   const docRef = doc(db, 'subjects', docId);
   const docSnap = await getDoc(docRef);
-  if (docSnap.exists()) {
-    return docSnap.data() as SubjectNode;
-  } else {
-  }
+  if (docSnap.exists()) return docSnap.data() as SubjectNode;
   return null;
 }
 
